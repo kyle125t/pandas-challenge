@@ -1,0 +1,7 @@
+1.) Most players are male.
+2.) Nearly 66% of players are between the ages of 15 and 24.
+3.) The age range for purchase counts is very similar to that of the player age demographics.
+4.) The youngest players were tied with the second oldest bucket for highest purchase price (kids stealing parents' credit cards?!)
+5.) Every age bin had a higher purchase total per person than their average purchase price, indicating each player will almost always make more than one purchase.
+6.) No individual player has more than 5 purchases.
+7.) Most Profitable Items...won't return that value because we don't know the margins/what it cost to "make" that item. They can't possibly be 100% profit.
